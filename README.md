@@ -1,3 +1,1 @@
 # Collabaration
-
-test text
